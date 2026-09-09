@@ -4,6 +4,12 @@ Open the app, receive one kind message a stranger left, and leave one for the ne
 
 Built with Next.js (App Router, TypeScript), Supabase (Postgres), and the Google Gemini API. Styling is plain CSS, no Tailwind.
 
+<img width="375" height="797" alt="kindling1" src="https://github.com/user-attachments/assets/04e1608d-dbc2-4495-be0d-40a259e30f9c" />
+<img width="381" height="795" alt="kindling2" src="https://github.com/user-attachments/assets/087e59a7-5558-4857-92a7-c668a0d71a46" />
+<img width="373" height="796" alt="kindling4" src="https://github.com/user-attachments/assets/218a88ee-4c66-4f5d-ab75-25b8efc70d01" />
+<img width="372" height="796" alt="kindling3" src="https://github.com/user-attachments/assets/4e6c8b95-f83a-43ed-b43a-d0b5b7aae784" />
+
+
 ## How it works
 
 Two pools of messages:
