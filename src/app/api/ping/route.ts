@@ -1,7 +1,9 @@
 import { NextResponse } from "next/server";
-import { supabase } from "@/lib/supabase";
+import { getServerClient } from "@/lib/supabase";
 
 export async function GET() {
+  const supabase = getServerClient();
+
   // Cheapest possible query that actually touches the DB
   const { error } = await supabase
     .from("fallback_messages")
